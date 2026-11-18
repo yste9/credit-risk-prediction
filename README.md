@@ -1,4 +1,11 @@
 # credit-risk-prediction
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![JNNET](https://img.shields.io/badge/JNNET-Neural_Networks-2563EB?style=for-the-badge)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-MLP-orange?style=for-the-badge)
+
 Prédiction du risque de défaut de crédit avec un réseau de neurones MLP : préparation des données, classification binaire et évaluation pour l’aide à la décision de crédit.
 
 ## 🛠️ Technologies Used
