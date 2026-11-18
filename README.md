@@ -1,6 +1,23 @@
 # credit-risk-prediction
 Prédiction du risque de défaut de crédit avec un réseau de neurones MLP : préparation des données, classification binaire et évaluation pour l’aide à la décision de crédit.
 
+## 🛠️ Technologies Used
+
+| Technology | Application |
+|------------|-------------|
+| Microsoft Excel | Data preprocessing and analysis |
+| JNNET | Artificial Neural Network (MLP) |
+| Machine Learning | Credit default prediction |
+| Binary Classification | Credit risk assessment |
+
+## 🧠 Model Architecture
+
+- Algorithm: Multilayer Perceptron (MLP)
+- Architecture: 10-4-1
+- Training Algorithm: Resilient Backpropagation (RProp)
+- Regularization: Elastic Net
+- Objective: Predict credit default risk
+
 # Prédiction du risque de défaut de crédit
 
 **Modélisation par réseau de neurones sur le Credit Risk Dataset.**
